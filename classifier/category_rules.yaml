@@ -1,0 +1,44 @@
+Income:
+  - salary
+  - credit
+  - bonus
+  - refund
+
+Rent:
+  - rent
+  - landlord
+  - lease
+
+Groceries:
+  - big bazaar
+  - dmart
+  - grocery
+  - kirana
+  - supermarket
+
+Food & Dining:
+  - zomato
+  - swiggy
+  - restaurant
+  - food
+  - cafe
+
+Utilities:
+  - electricity
+  - water
+  - gas
+  - utility
+  - billdesk
+
+UPI Transfers:
+  - upi
+  - gpay
+  - phonepe
+  - paytm
+
+Travel:
+  - ola
+  - uber
+  - irctc
+  - flight
+  - train

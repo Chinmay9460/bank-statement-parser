@@ -1,0 +1,21 @@
+ICICI:
+  credit_keywords:
+    - Deposits and Other Credits
+    - Credit Transactions
+  debit_keywords:
+    - ATM Withdrawals and Debits
+    - Debit Transactions
+    - Checks Paid
+  regex: "(\\d{2}/\\d{2}/\\d{4})\\s+(.+?)\\s+([\\d,.]+)$"
+
+SBI:
+  credit_keywords:
+    - Credit Transactions
+    - Deposits
+  debit_keywords:
+    - Withdrawals
+    - ATM
+    - POS
+    - NEFT
+    - RTGS
+  regex: "(\\d{2}-\\d{2}-\\d{4})\\s+(.+?)\\s+([\\d,.]+)$"

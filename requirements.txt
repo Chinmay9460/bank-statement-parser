@@ -1,0 +1,9 @@
+pandas
+camelot-py[cv]
+tabula-py
+scikit-learn
+matplotlib
+slack-sdk
+python-dotenv
+flask
+pdfplumber

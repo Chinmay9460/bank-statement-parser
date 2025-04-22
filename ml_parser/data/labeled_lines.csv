@@ -1,0 +1,33 @@
+
+line,label
+"1234 Anywhere Dr.",irrelevant
+"ATM Withdrawals & Debits -20.00",irrelevant
+"VISA Check Card Purchases & Debits -0.00",irrelevant
+"Withdrawals & Other Debits -0.00",irrelevant
+"Checks Paid",irrelevant
+"Account Summary: Balance as of 01/04/2023: $10,000",irrelevant
+"Thank you for banking with us",irrelevant
+"Monthly Statement Summary",irrelevant
+"Transactions from 01-04-2023 to 10-04-2023",irrelevant
+"Check #12345 paid on 06-04-2023",irrelevant
+"01/04/2023 ATM Withdrawal 500.00 DR",valid
+"02/04/2023 UPI TO ZOMATO 250.00 DR",valid
+"03/04/2023 Salary CREDIT 15000.00 CR",valid
+"05/04/2023 ATM Withdrawal 1000.00 DR",valid
+"06/04/2023 NEFT FROM ICICI BANK 3000.00 CR",valid
+"07/04/2023 Check#1234 2000.00 DR",valid
+"08/04/2023 ZOMATO REFUND 350.00 CR",valid
+"09/04/2023 AMAZON PAYMENT 1200.00 DR",valid
+"10/04/2023 CASH DEPOSIT 4000.00 CR",valid
+"11/04/2023 ATM Withdrawal 600.00 DR",valid
+"12/04/2023 ELECTRIC BILL PAYMENT 1850.00 DR",valid
+"13/04/2023 PAYTM ADD MONEY 1500.00 CR",valid
+"YourBank Anytown Direct Deposit",irrelevant
+"Direct Deposit",irrelevant
+"02/04/2023 Grocery Store 1,234.56 DR",valid
+"03/04/2023 Rent Payment 15,000.00 DR",valid
+"04/04/2023 Refund from Flipkart 1,000.00 CR",valid
+"Available Balance: £1,230.45",irrelevant
+"Balance as of today is ₹15,000",irrelevant
+"Service charges & fees",irrelevant
+"05/04/2023 UPI TO BIGBASKET 654.00 DR",valid
